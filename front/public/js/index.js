@@ -1,4 +1,4 @@
-
+/**** gffg****/
 let gameHasStarted = false;
 var board = null
 var game = new Chess()
