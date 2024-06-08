@@ -41,7 +41,7 @@ node index <br>
 ```
 
 <h2>Project Overview ..</h2>
-![chess](https://github.com/rishininawodi/CodeAlpha_Multiplayer-Online-Game-Server/assets/123630889/8a838861-f746-41a0-9636-9488efde12c7)
+
 
 ![chess](https://github.com/rishininawodi/CodeAlpha_Multiplayer-Online-Game-Server/assets/123630889/7345e651-8c2b-4d2d-804d-a47c60e21e14)
 
