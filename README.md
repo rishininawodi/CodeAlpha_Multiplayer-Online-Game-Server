@@ -26,21 +26,24 @@ JavaScript,This game offers a seamless and engaging chess experience directly in
 
 <h2>Installation</h2>
 <h4>1 . Clone the Repository: </h4>
-```bash
-git clone 
-cd online-multiplayer-chess-game
+```bash <br>
+git clone <br>
+cd online-multiplayer-chess-game <br>
 ```
 
 <h4>2 . Install necessary dependancies: </h4>
-```bash
-npm install
+```bash <br>
+npm install <br>
 ```
 <h4>3 . Start The server: </h4>
-```bash
-node index
+```bash <br>
+node index <br>
 ```
+
+<h2>OverView ..</h2>
+![Screenshot 2024-06-08 141111](https://github.com/rishininawodi/CodeAlpha_Multiplayer-Online-Game-Server/assets/123630889/ee25581a-ae60-4a62-930a-5b67adcf9d9c)
 
 
 
   
-</ul>
+
