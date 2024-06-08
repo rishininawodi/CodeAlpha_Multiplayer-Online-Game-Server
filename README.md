@@ -40,8 +40,8 @@ npm install <br>
 node index <br>
 ```
 
-<h2>OverView ..</h2>
-![Screenshot 2024-06-08 141111](https://github.com/rishininawodi/CodeAlpha_Multiplayer-Online-Game-Server/assets/123630889/ee25581a-ae60-4a62-930a-5b67adcf9d9c)
+<h2>Project Overview ..</h2>
+![chess](https://github.com/rishininawodi/CodeAlpha_Multiplayer-Online-Game-Server/assets/123630889/8a838861-f746-41a0-9636-9488efde12c7)
 
 
 
